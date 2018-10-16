@@ -1,0 +1,5 @@
+Solutions/
+node_modules/
+Excludes/
+Instructions/
+package-lock.json
